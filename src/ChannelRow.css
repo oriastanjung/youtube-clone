@@ -1,0 +1,44 @@
+.channelRow{
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+
+.channelRow__text {
+    display: flex;
+    flex-direction: column;
+}
+
+.channelRow__text >p {
+    color: #606060;
+    font-size: small !important;
+}
+
+.channelRow__logo {
+    height: 120px !important;
+    width: 120px !important;
+    margin: 10px 60px;
+}
+
+@media (max-width: 490px) {
+    .channelRow__text {
+        padding-right: 50px !important;
+    }
+    .channelRow__logo {
+        height: 100px !important;
+        width: 100px !important;
+    }
+    .channelRow__text > h4 {
+        font-size: 15px;
+    }
+}
+@media (max-width: 322.89px) {
+    .channelRow__logo {
+        height: 70px !important;
+        width: 70px !important;
+        margin: 10px 20px;
+    }
+    .channelRow__text {
+        margin-left: 20px;
+    }
+}
