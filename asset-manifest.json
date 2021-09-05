@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/youtube-clone/static/css/main.67b9a097.chunk.css",
+    "main.js": "/youtube-clone/static/js/main.9cc61bc3.chunk.js",
+    "main.js.map": "/youtube-clone/static/js/main.9cc61bc3.chunk.js.map",
+    "runtime-main.js": "/youtube-clone/static/js/runtime-main.dcddede8.js",
+    "runtime-main.js.map": "/youtube-clone/static/js/runtime-main.dcddede8.js.map",
+    "static/js/2.1cbb2618.chunk.js": "/youtube-clone/static/js/2.1cbb2618.chunk.js",
+    "static/js/2.1cbb2618.chunk.js.map": "/youtube-clone/static/js/2.1cbb2618.chunk.js.map",
+    "static/js/3.f330dc5e.chunk.js": "/youtube-clone/static/js/3.f330dc5e.chunk.js",
+    "static/js/3.f330dc5e.chunk.js.map": "/youtube-clone/static/js/3.f330dc5e.chunk.js.map",
+    "index.html": "/youtube-clone/index.html",
+    "static/css/main.67b9a097.chunk.css.map": "/youtube-clone/static/css/main.67b9a097.chunk.css.map",
+    "static/js/2.1cbb2618.chunk.js.LICENSE.txt": "/youtube-clone/static/js/2.1cbb2618.chunk.js.LICENSE.txt",
+    "static/media/THUMB.eac6f3b9.jpg": "/youtube-clone/static/media/THUMB.eac6f3b9.jpg",
+    "static/media/react.b2a87a53.png": "/youtube-clone/static/media/react.b2a87a53.png",
+    "static/media/stopwatch-app.3f29c009.png": "/youtube-clone/static/media/stopwatch-app.3f29c009.png",
+    "static/media/yt-clone.7987ad6c.png": "/youtube-clone/static/media/yt-clone.7987ad6c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcddede8.js",
+    "static/js/2.1cbb2618.chunk.js",
+    "static/css/main.67b9a097.chunk.css",
+    "static/js/main.9cc61bc3.chunk.js"
+  ]
+}
